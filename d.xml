@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="tv">
+<channel id="Dplay1">
+    <display-name lang="se">Dplay1</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+  <channel id="Dplay2">
+    <display-name lang="se">Dplay2</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay3">
+    <display-name lang="se">Dplay3</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay4">
+    <display-name lang="se">Dplay4</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay5">
+    <display-name lang="se">Dplay5</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay6">
+    <display-name lang="se">Dplay6</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay7">
+    <display-name lang="se">Dplay7</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay8">
+    <display-name lang="se">Dplay8</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay9">
+    <display-name lang="se">Dplay9</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay10">
+    <display-name lang="se">Dplay10</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay11">
+    <display-name lang="se">Dplay11</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay12">
+    <display-name lang="se">Dplay12</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay12">
+    <display-name lang="se">Dplay12</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay13">
+    <display-name lang="se">Dplay13</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay14">
+    <display-name lang="se">Dplay14</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay15">
+    <display-name lang="se">Dplay15</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay16">
+    <display-name lang="se">Dplay16</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay17">
+    <display-name lang="se">Dplay17</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+<channel id="Dplay18">
+    <display-name lang="se">Dplay18</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+
+
+<programme start="20220201161500 +0100" stop="20220201191500 +0100" channel="Dplay1">
+    <title lang="se">Testprogramdplay1</title>
+    <desc lang="se">Testprogramdplay1</desc>
+  </programme>
+<programme start="20220201161500 +0100" stop="20220201191500 +0100" channel="Dplay2">
+    <title lang="se">Testprogramdplay2</title>
+    <desc lang="se">Testprogramdplay2</desc>
+  </programme>
+</tv>
