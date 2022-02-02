@@ -76,6 +76,14 @@
     <display-name lang="se">Dplay18</display-name>
     <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
   </channel>
+ <channel id="Dplay19">
+    <display-name lang="se">Dplay18</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
+    <channel id="Dplay20">
+    <display-name lang="se">Dplay18</display-name>
+    <icon src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/discovery-plus-logo-768x498.png" />
+  </channel>
 
 
 <programme start="20220201161500 +0100" stop="20220201191500 +0100" channel="Dplay1">
