@@ -86,9 +86,9 @@
   </channel>
 
 
-<programme start="20220201161500 +0100" stop="20220201191500 +0100" channel="Dplay1">
-    <title lang="se">Testprogramdplay1</title>
-    <desc lang="se">Testprogramdplay1</desc>
+<programme start="20220206000000 +0100" stop="20220220000000 +0100" channel="Dplay1">
+    <title lang="se">OS i Peking 2022: Huvudsändningar</title>
+    <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
   </programme>
 <programme start="20220201161500 +0100" stop="20220201191500 +0100" channel="Dplay2">
     <title lang="se">Testprogramdplay2</title>
