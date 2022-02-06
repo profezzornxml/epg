@@ -122,32 +122,41 @@
     <title lang="se">OS i Peking 2022: Huvudsändningar</title>
     <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
   </programme>
+    <programme start="20220215020000 +0100" stop="20220215170000 +0100" channel="Dplay1">
+    <title lang="se">OS i Peking 2022: Huvudsändningar</title>
+    <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
+  </programme>    
+    <programme start="20220216020000 +0100" stop="20220216170000 +0100" channel="Dplay1">
+    <title lang="se">OS i Peking 2022: Huvudsändningar</title>
+    <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
+  </programme>    
+    <programme start="20220217020000 +0100" stop="20220217170000 +0100" channel="Dplay1">
+    <title lang="se">OS i Peking 2022: Huvudsändningar</title>
+    <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
+  </programme>    
+        <programme start="20220218020000 +0100" stop="20220218170000 +0100" channel="Dplay1">
+    <title lang="se">OS i Peking 2022: Huvudsändningar</title>
+    <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
+  </programme>
+        <programme start="20220219020000 +0100" stop="20220219170000 +0100" channel="Dplay1">
+    <title lang="se">OS i Peking 2022: Huvudsändningar</title>
+    <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
+  </programme>
+        <programme start="20220220020000 +0100" stop="20220220170000 +0100" channel="Dplay1">
+    <title lang="se">OS i Peking 2022: Huvudsändningar</title>
+    <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
+  </programme>
+        <programme start="20220221020000 +0100" stop="20220221170000 +0100" channel="Dplay1">
+    <title lang="se">OS i Peking 2022: Huvudsändningar</title>
+    <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
+  </programme>
+        <programme start="20220222020000 +0100" stop="20220222170000 +0100" channel="Dplay1">
+    <title lang="se">OS i Peking 2022: Huvudsändningar</title>
+    <desc lang="se">OS i Peking 2022: Huvudsändningar</desc>
+  </programme>
+    
 <programme start="20220215160000 +0100" stop="20220215230000 +0100" channel="Dplay5">
     <title lang="se">Tennis - Rotterdam</title>
     <desc lang="se">Tennis - Rotterdam</desc>
-  </programme>
-  <programme start="20220215170000 +0100" stop="20220217230000 +0100" channel="Dplay5">
-    <title lang="se">Tennis - Rotterdam</title>
-    <desc lang="se">Tennis - Rotterdam</desc>
-  </programme>
-  <programme start="20220218160000 +0100" stop="20220218230000 +0100" channel="Dplay5">
-    <title lang="se">Tennis - Rotterdam</title>
-    <desc lang="se">Tennis - Rotterdam</desc>
-  </programme>
-  <programme start="20220219160000 +0100" stop="20220219230000 +0100" channel="Dplay5">
-    <title lang="se">Tennis - Rotterdam</title>
-    <desc lang="se">Tennis - Rotterdam</desc>
-  </programme>
-  <programme start="20220220160000 +0100" stop="20220220230000 +0100" channel="Dplay5">
-    <title lang="se">Tennis - Rotterdam</title>
-    <desc lang="se">Tennis - Rotterdam</desc>
-  </programme>
-  <programme start="20220221160000 +0100" stop="20220221230000 +0100" channel="Dplay5">
-    <title lang="se">Tennis - Rotterdam</title>
-    <desc lang="se">Tennis - Rotterdam</desc>
-  </programme>
-  <programme start="20220222160000 +0100" stop="20220222230000 +0100" channel="Dplay5">
-    <title lang="se">Tennis - Rotterdam</title>
-    <desc lang="se">Tennis - Rotterdam</desc>
-  </programme>
+
 </tv>
